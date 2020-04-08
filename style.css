@@ -45,10 +45,10 @@ section {
     /* Add this line */
 }
 
-#qualification .profile-img {
+#qualification.profile-img {
     width: 100px;
-    height: 200px;
-    border-radius: 25%;
+    height: 100px;
+    border-radius: 20%;
 }
 
 footer {
